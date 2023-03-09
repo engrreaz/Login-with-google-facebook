@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="@string/about_this_school"
+            android:icon="@drawable/menu_about"/>
+        <item
+            android:id="@+id/nav_speech"
+            android:title="@string/principal_message"
+            android:icon="@drawable/menu_principal"/>
+        <item
+            android:id="@+id/nav_achieve"
+            android:title="@string/acheivements"
+            android:icon="@drawable/menu_achieve"/>
+        <item
+            android:id="@+id/nav_academic"
+            android:title="@string/academic"
+            android:icon="@drawable/menu_academic"/>
+
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/menu_dashboard"
+            android:title="@string/dashboard" />
+        <item
+            android:id="@+id/nav_attnd"
+            android:title="@string/attendance"
+            android:icon="@drawable/menu_attnd"/>
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/settings"
+            android:icon="@drawable/menu_settings"/>
+    </group>
+</menu>

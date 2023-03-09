@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "589059033807",
+    "firebase_url": "https://xeneen-48f5d.firebaseio.com",
+    "project_id": "xeneen-48f5d",
+    "storage_bucket": "xeneen-48f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589059033807:android:1073818c13c1567cc005ba",
+        "android_client_info": {
+          "package_name": "com.xeneen.ictpsdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589059033807-ntkbjlaoqa6harpul9f54rk8s087oimf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXVXh0ZNsDFVL32yJMIDbJifVkEboFhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589059033807-ntkbjlaoqa6harpul9f54rk8s087oimf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589059033807:android:7e0e0fa678fb52dcc005ba",
+        "android_client_info": {
+          "package_name": "com.xeneen.roseprecadetschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589059033807-ntkbjlaoqa6harpul9f54rk8s087oimf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXVXh0ZNsDFVL32yJMIDbJifVkEboFhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589059033807-ntkbjlaoqa6harpul9f54rk8s087oimf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
