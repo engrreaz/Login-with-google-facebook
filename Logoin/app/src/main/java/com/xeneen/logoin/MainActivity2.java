@@ -44,6 +44,7 @@ public class MainActivity2 extends AppCompatActivity {
         if(aaa != null){
             String a = aaa.getDisplayName();
             String e = aaa.getEmail();
+            e = e + aaa.getGivenName() + aaa.getFamilyName();
             uname.setText(a); email.setText(e);
 
         }
